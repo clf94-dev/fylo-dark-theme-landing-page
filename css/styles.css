@@ -1,6 +1,7 @@
     body {
         background-color: hsl(218, 28%, 13%);
         align-items: center;
+        overflow-x: hidden;
     }
     
     .title-font {
